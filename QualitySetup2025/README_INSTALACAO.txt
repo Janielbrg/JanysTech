@@ -7,6 +7,9 @@ INSTRUÇÕES DE COMPILAÇÃO - QUALITY SETUP 2025
    https://www.mediafire.com/file/mdvraqa49ji8fb8/Quality.zip/file
 2. Tenha o Inno Setup instalado (versão 6.2 ou superior)
 
+3. 3. Extraia o conteúdo do repositório para:
+   C:\QualitySetup2025\
+
 📁 ESTRUTURA DE ARQUIVOS NECESSÁRIA:
 C:\QualitySetup2025\
 ├── QualitySetup2025.iss   
